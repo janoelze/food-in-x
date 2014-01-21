@@ -1,4 +1,4 @@
-![image](https://s3-eu-west-1.amazonaws.com/51e3d489f1e/2014-01-22-12-38-46-52df05064cb71.png)
+![image](https://s3-eu-west-1.amazonaws.com/51e3d489f1e/2014-01-22-12-52-19-52df0833ab706.png)
 
 ## food-in-x
 
