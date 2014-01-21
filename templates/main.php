@@ -4,6 +4,8 @@
     <?php include 'templates/_partials/head.php'; ?>
   </head>
   <body>
+    <h1><?= $config['app_title']; ?></h1>
+    <hr>
     <div id="venues">
       <?php foreach (get_venues() as $venue) { ?>
         <div id="<?= slugify($venue['name']); ?>" class="main_venue">
