@@ -1,7 +1,7 @@
 <?php
 
   function get_venues(){
-    $venues =  require(__DIR__ . '/../data/venues.php';
+    $venues =  require(__DIR__ . '/../data/venues.php');
 
     function alph_order($a, $b){
       return strcmp($a['name'], $b['name']);
