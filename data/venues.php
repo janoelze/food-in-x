@@ -2,9 +2,9 @@
 
   # This is where you put your reviews.
   # You can plugin whatever data source you want to use. 
-  # Important is, that $venues points to an array with your reviews.
+  # Important is, that you return an array with your reviews.
 
-  $venues = array(
+  return array(
     array(
       'name' => 'John Does Burgers',
       'desc' => 'Lorem Ipsum dolor sit amet', 
