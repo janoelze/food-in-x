@@ -1,0 +1,121 @@
+/*
+Theme Name: Food-in-X Default
+Author: Jan Oelze
+Version: 1.0
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-weight: normal;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #FDFDF4;
+  color: #64543E;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  margin: 0px;
+  padding: 0px;
+}
+
+.dim {
+  background-color: rgba(0,0,0,0.03);
+}
+
+a {
+  color: #64543E;
+  text-decoration: none;
+  border-bottom: 1px solid #64543E;
+}
+
+div#head {
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+  font-size: 1.6em;
+  padding: 50px 0px;
+}
+
+div#head h1 {
+  display: inline-block;
+  font-weight: 300;
+  font-size: 1.7em;
+  font-weight: 600;
+}
+
+div#head h5 {
+  font-weight: 500;
+  -moz-opacity: 0.5;
+  filter: Alpha(opacity=50);
+  opacity: 0.5;
+}
+
+div#head h5:hover {
+  -webkit-transition: all 0.15s linear;
+  font-weight: 500;
+  -moz-opacity: 1.0;
+  filter: Alpha(opacity=100);
+  opacity: 1.0;
+}
+
+div#head a {
+  border-bottom: 0px;
+}
+
+#venues {
+  margin: 0px auto;
+  text-align: center;
+  width: 70%;
+}
+
+#venues .venue {
+  margin: 85px 0px;
+  width: 100%;
+}
+
+#venues .venue h3 {
+  font-size: 1.1em;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+#venues .venue h3 a {
+  border-bottom: 0px;
+}
+
+#venues .venue h3 a:hover {
+  border-bottom: 1px solid #64543E;
+}
+
+#venues .venue blockquote {
+  display: block;
+  font-size: 1.8em;
+  font-style: italic;
+  font-weight: 600;
+  margin: 5px auto 25px auto;
+}
+
+#venues .venue .info {
+  display: inline-block;
+  padding: 5px 5px 0px 5px;
+  border-top: 1px solid rgba(0,0,0,0.1);
+  font-size: 0.85em;
+} 
+
+#footer {
+  overflow: auto;
+  padding: 30px 0px;
+  text-align: center;
+  font-size: 1em;
+}
+
+#footer p {
+  margin: 10px 40px;
+}
+
+#footer p.shameless-plug {
+  font-size: 0.9em;
+}

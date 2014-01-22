@@ -4,12 +4,14 @@
     <?php include 'templates/_partials/head.php'; ?>
   </head>
   <body>
-    <h1><?= $config['app_title']; ?></h1>
-    <hr>
+    <div id="head" class="dim">
+      <h1><?= $config['site_title']; ?></h1>
+      <h5>by <?= $config['author_link']; ?></h5>
+    </div>
     <div id="venues">
       <?php foreach (get_venues() as $venue) { ?>
-        <div id="<?= slugify($venue['name']); ?>" class="main_venue">
-          <h2>
+        <div id="<?= slugify($venue['name']); ?>" class="venue">
+          <h3>
             <?php if(!empty($venue['url'])){ ?>
               <a target="_blank" href="<?= $venue['url'] ?>">
                 <?= $venue['name'] ?>
@@ -17,21 +19,16 @@
             <?php }else{ ?>
               <?= $venue['name'] ?>
             <?php } ?>
-          </h2>
-          <p>
-            <?= $venue['desc'] ?>
-          </p>
-          <ul>
-            <li><?= $venue['best_for']; ?></li>
-            <li><?= $venue['type']; ?></li>
-            <li><?= str_repeat('$', $venue['price']); ?></li>
-            <li><?= $venue['address']; ?></li>
-          </ul>
+          </h3>
+          <blockquote>
+            "<?= $venue['desc'] ?>"
+          </blockquote>
+          <div class="info">
+            <?= $venue['best_for']; ?> - <?= $venue['type']; ?> - <?= str_repeat('$', $venue['price']); ?> - <?= $venue['address']; ?>
+          </div>
         </div>
       <?php } ?>
     </div>
-    <div id="footer">
-      <?php include 'templates/_partials/footer.php'; ?>
-    </div>
+    <?php include 'templates/_partials/footer.php'; ?>
   </body>
 </html>

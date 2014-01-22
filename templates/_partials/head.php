@@ -1,3 +1,3 @@
 <meta charset=utf-8>
-<title><?= $config['app_title']; ?></title>
-<link rel="stylesheet" type="text/css" href="<?= $config['base_url']; ?>/assets/food-in-x.css">
+<title><?= $config['site_title']; ?></title>
+<link rel="stylesheet" type="text/css" href="<?= $config['base_url']; ?>/<?= $config['theme_path'] ?>/food-in-x.css">
