@@ -2,11 +2,9 @@
 
 ## Food in X
 
-Over the last few months [I enjoyed reviewing places](http://janoelze.de/food-in-hamburg/), I went to eat at in Hamburg. Partly to keep track of venues I liked, partly to assamble a general list of good restaurants, bars, etc in the city.
+Heavily inspired by Neven Morgans [Food in PDX](http://mrgan.com/pdxfood/) page I set up [Food in Hamburg](http://janoelze.de/food-in-hamburg/) in November 2013. Over the last few months I enjoyed writing these tiny reviews of venues i ate at. Partly to keep track of venues I liked, partly to assamble a general list of good restaurants, bars, etc in the city.
 
-Since I'm not good at judging and filtering commercially interested food recommendations done by i.e. travel magazines, I'd like to see these personal lists pop up for other cities.
-
-So, please go ahead, throw the [code](https://github.com/janoelze/food-in/archive/master.zip) on your server and start reviewing places you deem worth checking out.
+Since I'm not good at judging and filtering commercially interested food recommendations done by i.e. travel magazines, I'd like to see these personal lists pop up for other cities. So, please go ahead, throw the [code](https://github.com/janoelze/food-in/archive/master.zip) on your server and start reviewing places you deem worth checking out. 
 
 **[Demo](http://janoelze.de/food-in-x/)**
 
@@ -25,6 +23,7 @@ So, please go ahead, throw the [code](https://github.com/janoelze/food-in/archiv
  
 ## Notes & Thoughts
 
+* Do not hesitate to change the design & functionality of your Food in X site. The default layout is a basic starting point. Feel free to do whatever you like with it.
 * There's nothing wrong with setting up your own site, even if somebody else is already covering the city you live in. These are personal, very subjective lists.
 * Since I miss the times of blogrolls I'd be happy to link to your site in the footer of [janoelze.de/food-in-hamburg/](http://janoelze.de/food-in-hamburg/) so we can pull up a small directory of food-in-x sites. Drop me a line at [jan@codein.is](mailto:jan@codein.is) with the URL to your site.
 
