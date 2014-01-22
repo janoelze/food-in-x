@@ -14,6 +14,7 @@ So, please go ahead and throw PHP code above on your server and review places yo
 * Upload it to a PHP server (5.3+) of your choice. 
 * Update the config in the index.php file, so that it matches your setup.
 	* *Optional: Modify the existing theme or create your own. If HTML and CSS is not your thing: A default theme is in the making.*
+* Go ahead and edit your list of venues in `/data/venues.php`.
 * That's it, I think.
 
 ## Todo
