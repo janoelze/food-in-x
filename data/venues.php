@@ -1,8 +1,8 @@
 <?php
 
   # This is where you put your reviews.
-  # You can plugin whatever data source you want to use. 
-  # Important is, that $venues points to an array with your reviews.
+  # You can plug in whatever data source you want to use. 
+  # Important is that $venues points to an array with your reviews.
 
   $venues = array(
     array(
