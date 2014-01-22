@@ -19,6 +19,7 @@ So, please go ahead and throw PHP code above on your server and review places yo
 
 ## Todo
  * Add a nicer default theme
+ * Maybe add a tiny backend. Not really sure about that; I like the current no-frills code.
  
 ## Notes
 
