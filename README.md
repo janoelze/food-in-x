@@ -23,4 +23,4 @@ So, please go ahead and throw PHP code above on your server and review places yo
  
 ## Notes
 
-Since I miss the times of blogrolls I'd be happy to link to your food-in-x site in the footer of [janoelze.de/food-in-hamburg/](http://janoelze.de/food-in-hamburg/). Drop me a line at [jan@codein.is](mailto:jan@codein.is) with the URL to your site.
+Since I miss the times of blogrolls I'd be happy to link to your food-in-x site in the footer of [janoelze.de/food-in-hamburg/](http://janoelze.de/food-in-hamburg/) so we can pull up a small directory of food-in-x sites. Drop me a line at [jan@codein.is](mailto:jan@codein.is) with the URL to your site.
