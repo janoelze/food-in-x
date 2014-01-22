@@ -16,10 +16,6 @@ Since I'm not good at judging and filtering commercially interested food recomme
 	* *Optional: Modify the existing theme or create your own. If HTML and CSS is not your thing: A default theme is in the making.*
 * Go ahead and edit your list of venues in `/data/venues.php`.
 * That's it, I think.
-
-## Todo
- * Add a nicer default theme
- * Maybe add a tiny backend. Not really sure about that; I like the current no-frills code.
  
 ## Notes & Thoughts
 
