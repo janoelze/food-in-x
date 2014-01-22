@@ -6,7 +6,7 @@ Over the last few months [I enjoyed reviewing places](http://janoelze.de/food-in
 
 Since I'm not good at judging and filtering commercially interested food recommendations done by i.e. travel magazines, I'd like to see these personal lists pop up for other cities.
 
-So, please go ahead and throw PHP code above on your server and review places you deem worth checking out.
+So, please go ahead, throw the [code](https://github.com/janoelze/food-in/archive/master.zip) on your server and start reviewing places you deem worth checking out.
 
 ## Installation
 
