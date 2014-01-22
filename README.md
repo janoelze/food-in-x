@@ -8,6 +8,8 @@ Since I'm not good at judging and filtering commercially interested food recomme
 
 So, please go ahead, throw the [code](https://github.com/janoelze/food-in/archive/master.zip) on your server and start reviewing places you deem worth checking out.
 
+**[Demo](http://janoelze.de/food-in-x/)**
+
 ## Installation
 
 * Download the [code](https://github.com/janoelze/food-in/archive/master.zip).
