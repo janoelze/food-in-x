@@ -23,6 +23,11 @@ So, please go ahead, throw the [code](https://github.com/janoelze/food-in/archiv
  * Add a nicer default theme
  * Maybe add a tiny backend. Not really sure about that; I like the current no-frills code.
  
-## Notes
+## Notes & Thoughts
 
-Since I miss the times of blogrolls I'd be happy to link to your food-in-x site in the footer of [janoelze.de/food-in-hamburg/](http://janoelze.de/food-in-hamburg/) so we can pull up a small directory of food-in-x sites. Drop me a line at [jan@codein.is](mailto:jan@codein.is) with the URL to your site.
+* There's nothing wrong with setting up your own site, even if somebody else is already covering the city you live in. These are personal, very subjective lists.
+* Since I miss the times of blogrolls I'd be happy to link to your site in the footer of [janoelze.de/food-in-hamburg/](http://janoelze.de/food-in-hamburg/) so we can pull up a small directory of food-in-x sites. Drop me a line at [jan@codein.is](mailto:jan@codein.is) with the URL to your site.
+
+## All cities
+
+* [Hamburg, Jan Oelze](http://janoelze.de/food-in-hamburg/)
