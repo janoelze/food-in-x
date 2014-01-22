@@ -1,6 +1,6 @@
-![image](https://s3-eu-west-1.amazonaws.com/51e3d489f1e/2014-01-22-12-52-19-52df0833ab706.png)
+![image](https://s3-eu-west-1.amazonaws.com/51e3d489f1e/2014-01-22-04-06-08-52df35a0197b1.png)
 
-## food-in-x
+## Food in X
 
 Over the last few months [I enjoyed reviewing places](http://janoelze.de/food-in-hamburg/), I went to eat at in Hamburg. Partly to keep track of venues I liked, partly to assamble a general list of good restaurants, bars, etc in the city.
 
