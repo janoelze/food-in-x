@@ -7,7 +7,7 @@
   return array(
     array(
       'name' => 'John Does Burgers',
-      'desc' => 'Once you get rid of the cucumber, <br>the burger\'s quite good!', 
+      'description' => 'Once you get rid of the cucumber, <br>the burger\'s quite good!', 
       'address' => 'Barbeque-Straße 2, 20259 Hamburg',
       'price' => 3, # The number of dollar signs
       'best_for' => 'Dinner', # "Lunch" or "Dinner". Can be anything.
@@ -16,7 +16,7 @@
     ),
     array(
       'name' => 'La Bella Italia',
-      'desc' => 'Man, what a great pizza!', 
+      'description' => 'Man, what a great pizza!', 
       'address' => 'Am Teig Teich 102, 20259 Hamburg',
       'price' => 2,
       'best_for' => 'Dinner',
@@ -25,7 +25,25 @@
     ),
     array(
       'name' => 'Sushi-Town',
-      'desc' => 'That was one delicious lunch!', 
+      'description' => 'That was one delicious lunch!', 
+      'address' => 'Wakame Weg 5, 20259 Hamburg',
+      'price' => 1,
+      'best_for' => 'Fast-Food',
+      'url' => 'http://www.yelp.de/biz/sushi-town-new-york',
+      'type' => 'Sushi',
+    ),
+    array(
+      'name' => 'La Bella Italia',
+      'description' => 'Man, what a great pizza!', 
+      'address' => 'Am Teig Teich 102, 20259 Hamburg',
+      'price' => 2,
+      'best_for' => 'Dinner',
+      'url' => 'http://www.yelp.de/biz/la-bella-italia-hamburg',
+      'type' => 'Italian',
+    ),
+    array(
+      'name' => 'Sushi-Town',
+      'description' => 'That was one delicious lunch!', 
       'address' => 'Wakame Weg 5, 20259 Hamburg',
       'price' => 1,
       'best_for' => 'Fast-Food',
