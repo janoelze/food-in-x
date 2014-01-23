@@ -26,4 +26,5 @@ Since I'm not good at judging and filtering commercially interested food recomme
 
 ## All cities
 
-* [Hamburg, Jan Oelze](http://janoelze.de/food-in-hamburg/)
+* [Hamburg, @janoelze](http://janoelze.de/food-in-hamburg/)
+* [London, @_nyxie](http://nyxie.de/food-in-london/)
