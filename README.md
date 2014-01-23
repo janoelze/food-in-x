@@ -2,7 +2,7 @@
 
 ## Food in X
 
-Heavily inspired by Neven Morgans [Food in PDX](http://mrgan.com/pdxfood/) page I set up [Food in Hamburg](http://janoelze.de/food-in-hamburg/) in November 2013. Over the last few months I enjoyed writing these tiny reviews of venues i ate at. Partly to keep track of venues I liked, partly to assamble a general list of good restaurants, bars, etc in the city.
+Heavily inspired by Neven Morgans [Food in PDX](http://mrgan.com/pdxfood/) page I set up [Food in Hamburg](http://janoelze.de/food-in-hamburg/) in November 2013. Over the last few months I enjoyed writing these tiny reviews of venues I ate at. Partly to keep track of venues I liked, partly to assamble a general list of good restaurants, bars, etc in the city.
 
 Since I'm not good at judging and filtering commercially interested food recommendations done by i.e. travel magazines, I'd like to see these personal lists pop up for other cities. So, please go ahead, throw the [code](https://github.com/janoelze/food-in/archive/master.zip) on your server and start reviewing places you deem worth checking out. 
 
