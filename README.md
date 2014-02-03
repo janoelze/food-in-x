@@ -28,3 +28,4 @@ Since I'm not good at judging and filtering commercially interested food recomme
 
 * [Hamburg, @janoelze](http://janoelze.de/food-in-hamburg/)
 * [London, @_nyxie](http://nyxie.de/food-in-london/)
+* [Stuttgart, @svenamstart](http://www.sventillack.de/food-in-stuttgart/)
