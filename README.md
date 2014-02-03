@@ -31,3 +31,6 @@ Since I'm not good at judging and filtering commercially interested food recomme
 * [Stuttgart, @svenamstart](http://www.sventillack.de/food-in-stuttgart/)
 * [Berlin, @danjel](http://danieldiekmeier.de/food-in-berlin/)
 * [Frankfurt, @madlenie](http://www.browsepulver.org/food-in-frankfurt/)
+
+### Non city-specific
+* [Following Foods, @vitou](http://gustav-moorhouse.com/projects/food/)
