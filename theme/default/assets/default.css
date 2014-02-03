@@ -94,6 +94,10 @@ a {
   line-height: 10px;
 }
 
+#venues .venue .meta .dim_dollar {
+  color: rgba(37, 86, 136, 0.5);
+}
+
 #venues .venue .meta .divide {
   padding: 5px 15px;
   border-right: 1px solid #255688;
