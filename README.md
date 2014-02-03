@@ -20,7 +20,7 @@ Since I'm not good at judging and filtering commercially interested food recomme
 ## Notes & Thoughts
 
 * Do not hesitate to change the design & functionality of your Food in X site. The default layout is a basic starting point. Feel free to do whatever you like with it.
-* There's nothing wrong with setting up your own site, even if somebody else is already covering the city you live in. These are personal, very subjective lists.
+* There's nothing wrong with setting up your own site, even if somebody else is already covering the city you live in. These are personal, very subjective lists. The more the better!
 * Questions? [http://twitter.com/janoelze](http://twitter.com/janoelze) or [jan@codein.is](mailto:jan@codein.is).
 * Since I miss the times of blogrolls I'd be happy to link to your site in the footer of [janoelze.de/food-in-hamburg/](http://janoelze.de/food-in-hamburg/) so we can pull up a small directory of food-in-x sites. Drop me a line at [jan@codein.is](mailto:jan@codein.is) with the URL to your site.
 
