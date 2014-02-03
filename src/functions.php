@@ -18,7 +18,7 @@
     $text = preg_replace('~[^-\w]+~', '', $text);
 
     if (empty($text)){
-      return 'n-a';
+      return md5($text);
     }
 
     return $text;
